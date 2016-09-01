@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="html/resources/TrackingData.zip">
+<arel><![CDATA[html/index.html]]></arel>
+
+<object id="bookpage1">
+<title><![CDATA[1]]></title>
+<assets3d><model><![CDATA[html/resources/Page1_FINAL.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="bookpage2">
+<title><![CDATA[2]]></title>
+<assets3d><model><![CDATA[html/resources/Page2_FINAL.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="bookpage3">
+<title><![CDATA[3]]></title>
+<assets3d><model><![CDATA[html/resources/Page3_FINAL.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="bookpage4">
+<title><![CDATA[4]]></title>
+<assets3d><model><![CDATA[html/resources/Page4_FINAL.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="bookpage5">
+<title><![CDATA[5]]></title>
+<assets3d><model><![CDATA[html/resources/Page5_FINAL.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="facebook">
+<title><![CDATA[6]]></title>
+<assets3d><model><![CDATA[html/resources/FACEBOOK.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="twitter">
+<title><![CDATA[7]]></title>
+<assets3d><model><![CDATA[html/resources/TWITTER.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="kcijopage4">
+<title><![CDATA[8]]></title>
+<assets3d><model><![CDATA[html/resources/Page4_KCIJO.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="tehkotakpage4">
+<title><![CDATA[9]]></title>
+<assets3d><model><![CDATA[html/resources/Page4_TEHKOTAK.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="mimipage4">
+<title><![CDATA[10]]></title>
+<assets3d><model><![CDATA[html/resources/Page4_MIMI.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="bluemilkpage4">
+<title><![CDATA[11]]></title>
+<assets3d><model><![CDATA[html/resources/Page4_BLUEMILK.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>56.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="chocmilkpage4">
+<title><![CDATA[12]]></title>
+<assets3d><model><![CDATA[html/resources/Page4_CHOCMILK.zip]]></model><transform>
+<translation>
+<x>5.31549072265625000000</x><y>200.36727523803710937500</y><z>76.22338867187500000000</z></translation>
+<rotation type="eulerdeg">
+<x>90.00000000000000000000</x><y>0.00000000000000000000</y><z>-182.99998474121093750000</z>
+</rotation>
+<scale><x>5.09310579299926757812</x><y>5.09310579299926757812</y><z>5.09310579299926757812</z></scale>
+</transform></assets3d><viewparameters/></object>
+
+<object id="3af3754bcaf1ab2002506b41da314a04_1"><title><![CDATA[next]]></title><assets3d><model><![CDATA[html/resources/3af3754bcaf1ab2002506b41da314a04.zip]]></model><transform><translation><x>-86.74478149414062500000</x><y>74.86962890625000000000</y><z>5.02554702758789062500</z></translation><rotation type="eulerdeg"><x>0.00000000000000000000</x><y>-0.00000000000000000000</y><z>0.00000000000000000000</z></rotation><scale><x>1.33138883113861083984</x><y>1.33138883113861083984</y><z>1.33138883113861083984</z></scale></transform><properties><coordinatesystemid>0</coordinatesystemid></properties></assets3d><viewparameters/></object>
+
+<object id="4a40d9e4d82a67bbf3264ef7a15f1ee2_1"><title><![CDATA[prev]]></title><assets3d><model><![CDATA[html/resources/4a40d9e4d82a67bbf3264ef7a15f1ee2.zip]]></model><transform><translation><x>84.89535522460937500000</x><y>63.77243041992187500000</y><z>5.02554702758789062500</z></translation><rotation type="eulerdeg"><x>0.00000000000000000000</x><y>-0.00000000000000000000</y><z>0.00000000000000000000</z></rotation><scale><x>1.26797592639923095703</x><y>1.26797592639923095703</y><z>1.26797592639923095703</z></scale></transform><properties><coordinatesystemid>0</coordinatesystemid></properties></assets3d><viewparameters/></object>
+
+</results>
